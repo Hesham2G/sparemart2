@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "FFFFFF"  # أسود
+  color_dark: "272727"  # أبيض
+  image: "assets/brake.png"
+  image_dark: "assets/brake.png"
+
+  android_12:
+    color: "FFFFFF"  # أسود
+    color_dark: "272727"  # أبيض
+    image: "assets/brake.png"
+    image_dark: "assets/brake.png"
+
+  web: false

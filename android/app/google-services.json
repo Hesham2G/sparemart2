@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36497232687",
+    "project_id": "sparemart2-e115d",
+    "storage_bucket": "sparemart2-e115d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36497232687:android:6d11ebe08dd178647787da",
+        "android_client_info": {
+          "package_name": "com.example.sparemart2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVG57mPfNeiFFOtjtFKNw1HV4J0N0hrcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
